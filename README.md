@@ -1,2 +1,1 @@
-## GitHub Clone Project - Objective
-This project practices branching and merging in Git.
+This line is from the main branch.
